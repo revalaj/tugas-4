@@ -1,0 +1,12 @@
+exe' 'c:\Users\acer\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49209' '--' 'c:\Users\acer\Downloads\4.1.py'
+Determinan Matriks A adalah -2.0000000000000004.
+PS C:\Users\acer\Downloads>  c:; cd 'c:\Users\acer\Downloads'; & 'C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\acer\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49322' '--' 'c:\Users\acer\Downloads\4.2.py' 
+Invers Matriks B adalah:
+[[ 0.0872093   0.04263566]
+ [-0.00581395  0.01937984]].
+PS C:\Users\acer\Downloads>  c:; cd 'c:\Users\acer\Downloads'; & 'C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\acer\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49341' '--' 'c:\Users\acer\Downloads\4.3.py' 
+Kondisi buruk matriks C: 1.0000000002.
+PS C:\Users\acer\Downloads>  c:; cd 'c:\Users\acer\Downloads'; & 'C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\acer\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49351' '--' 'c:\Users\acer\Downloads\4.4.py' 
+Solusi sistem persamaan linier: [-4.   4.5].
+PS C:\Users\acer\Downloads>  c:; cd 'c:\Users\acer\Downloads'; & 'C:\Users\acer\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\acer\.vscode\extensions\ms-python.python-2023.22.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49365' '--' 'c:\Users\acer\Downloads\4.5.py'
+Dimensi ruang nol matriks C: 2.
